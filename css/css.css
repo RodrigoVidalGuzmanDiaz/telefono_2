@@ -1,0 +1,80 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.margen{
+    margin-left: ;
+    margin-right: ;
+}
+.div_circulos{
+    width: 360px;
+    height: 360px;
+    border: 1px solid black;
+    border-radius: 50%;
+    margin: auto;
+    margin-top: 100px;
+    background-color: #562678;
+}
+.div_ovalo{
+    width: 730px;
+    height: 70px;
+    margin: auto;
+    margin-top: 150px;
+    border: 1px solid black;
+    border-radius: 40px;
+    background-color: #34004A;
+}
+.div_ovalo1{
+    width: 320px;
+    height: 35px;
+    margin: auto;
+    margin-top: 110px;
+    border: 1px solid black;
+    border-radius: 40px;
+    background-color: #001935;
+}
+.div_ovalo2{
+    width: 320px;
+    height: 35px;
+    margin: auto;
+    margin-top: 40px;
+    border: 1px solid black;
+    border-radius: 40px;
+    background-color: #001935;
+}
+.div_cuadrado{
+    width: 730px;
+    height: 360px;
+    border: 3px solid black;
+    border-radius: 50px;
+    margin: auto;
+    margin-top: 100px;
+    background-color: #FE7E4F;
+}
+.div_rectangulo{
+    width: 730px;
+    height: 85px;
+    border: 3px solid black;
+    border-radius: 15px;
+    margin: auto;
+    margin-top: 50px;
+    margin-bottom: 70px;
+    background-color: #001935;
+}
+.div_linea{
+    height: 10px;
+    background-color: black;
+}
+.circulos{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.div_circulo{
+    width: 130px;
+    height: 130px;
+    margin-top: 15px;
+    border-radius: 50%;
+    background: #001935;
+    
+}
