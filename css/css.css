@@ -5,37 +5,39 @@
 .margen{
     margin-left: ;
     margin-right: ;
+    
+    font-size:10px;
 }
 .div_circulos{
-    width: 360px;
-    height: 360px;
+    width: 36em;
+    height: 36em;
     border: 1px solid black;
     border-radius: 50%;
     margin: auto;
-    margin-top: 100px;
+    margin-top: 10em;
     background-color: #562678;
 }
 .div_ovalo{
-    width: 730px;
-    height: 70px;
+    width: 73em;
+    height: 7em;
     margin: auto;
-    margin-top: 150px;
+    margin-top: 15em;
     border: 1px solid black;
-    border-radius: 40px;
+    border-radius: 4em;
     background-color: #34004A;
 }
 .div_ovalo1{
-    width: 320px;
-    height: 35px;
+    width: 32em;
+    height: 3.5em;
     margin: auto;
-    margin-top: 110px;
+    margin-top: 11em;
     border: 1px solid black;
     border-radius: 40px;
     background-color: #001935;
 }
 .div_ovalo2{
-    width: 320px;
-    height: 35px;
+    width: 32em;
+    height: 3.5em;
     margin: auto;
     margin-top: 40px;
     border: 1px solid black;
@@ -43,12 +45,12 @@
     background-color: #001935;
 }
 .div_cuadrado{
-    width: 730px;
-    height: 360px;
+    width: 73em;
+    height: 36em;
     border: 3px solid black;
     border-radius: 50px;
     margin: auto;
-    margin-top: 100px;
+    margin-top: 10em;
     background-color: #FE7E4F;
 }
 .div_rectangulo{
@@ -71,9 +73,11 @@
     justify-content: space-around;
 }
 .div_circulo{
-    width: 130px;
-    height: 130px;
-    margin-top: 15px;
+    font-size: 10px;
+    
+    width: 13em;
+    height: 13em;
+    margin-top: 1.5em;
     border-radius: 50%;
     background: #001935;
     
